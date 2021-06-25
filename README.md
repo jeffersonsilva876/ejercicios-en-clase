@@ -1,2 +1,2 @@
-# python-tareas
-trabajospython
+# ejercicios en clase
+ejercicios
